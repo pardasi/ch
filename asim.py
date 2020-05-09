@@ -110,10 +110,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;96mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://m.youtube.com/channel/UC4znrrC1oSJt73GXQ0BdPow')
     else:
         print "\033[1;96mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://m.youtube.com/channel/UC4znrrC1oSJt73GXQ0BdPow')
 
 def login():
 	os.system('clear')
@@ -539,10 +539,10 @@ _______¶¶¶_________¶______¶_________¶¶¶______
  
          Checkpoint ID Open After 7 Days
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....Aahil Creations....... \033[1;95m :
+: \033[1;91m ....Asim Ch....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
-              \033[1;91m Aahil"""
+              \033[1;91m Asim"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	menu()
